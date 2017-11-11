@@ -4,6 +4,6 @@
 * 'Python Plays GTA V'by sentdex : https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/
 * Code on sentdex GitHub : https://github.com/sentdex/pygta5
 * Code with comments : 
-- GSAV_videos_1to7.py 
-- GSAV_videos_8to12.py
+-- GSAV_videos_1to7.py 
+-- GSAV_videos_8to12.py
 
