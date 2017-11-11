@@ -5,6 +5,6 @@
 * Code on sentdex GitHub : https://github.com/sentdex/pygta5
 
 # Code with comments : 
-* GSAV_videos_1to7.py :grab the image, processing the image, region of interest,find the lines and define the lanes with cv2
+* GSAV_videos_1to7.py :grab the image, process the image, region of interest,find the lines and define the lanes with cv2
 * GSAV_videos_8to12.py : generate the data, balance the data, train the model with Alexnet, test the model. 
 
