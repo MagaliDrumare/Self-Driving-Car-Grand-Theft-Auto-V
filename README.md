@@ -5,8 +5,11 @@
 * Code on sentdex GitHub : https://github.com/sentdex/pygta5
 * How to improve the AI? : https://psyber.io
 
-# Code with comments : 
+# Self-Driving-Car-Grand-Theft-Auto-V-code with comments : 
 * GSAV_videos_1to7.py : grab the image, process the image,region of interest,find the lines and define the lanes with cv2
 * GSAV_videos_8to12.py : generate the data, balance the data, train the model with Alexnet, test the model. 
 * GSAV_videos_16to17.py : how to improve the AI
 
+# Udacity's Self-Driving Car Nanodegree project
+* Code on Udacity Projet by Jessica Yung: https://github.com/jessicayung/self-driving-car-nd
+* Teaching Cars To See — Advanced Lane Detection Using Computer Vision by Eddie Forson: http://bit.ly/2zUhU1B
